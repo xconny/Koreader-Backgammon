@@ -1,4 +1,4 @@
-# Backgammon for KOReader
+# 🎲 Backgammon for KOReader
 
 A backgammon plugin for [KOReader](https://github.com/koreader/koreader) – play directly on your e-reader.
 
@@ -18,7 +18,18 @@ A backgammon plugin for [KOReader](https://github.com/koreader/koreader) – pla
 Enjoy (｡◕‿‿◕｡)
 
 
-## Installation
+## 📸 Screenshots
+
+Main menu and sample boards running inside KOReader:
+
+![Backgammon – main menu](screenshots/koreader-backgammon-mainmenu.png)
+
+![Backgammon – Portes](screenshots/koreader-backgammon-portes.png)
+
+![Backgammon – Plakoto](screenshots/koreader-backgammon-plakoto.png)
+
+
+## 📦 Installation
 
 1. **Download**
    - Go to the **Releases** page of this repository.
@@ -51,7 +62,7 @@ Enjoy (｡◕‿‿◕｡)
    - Restart KOReader so it can detect the new plugin.
 
 
-## Usage
+## 🕹️ Usage
 
 1. Open **KOReader**.
 2. From the main menu, go to:
@@ -66,7 +77,7 @@ Enjoy (｡◕‿‿◕｡)
 5. Play and enjoy (｡◕‿‿◕｡)
 
 
-## Uninstall
+## 🗑️ Uninstall
 
 To remove the plugin:
 
@@ -75,7 +86,7 @@ To remove the plugin:
 3. Restart KOReader.
 
 
-## Development
+## 🛠️ Development
 
 - Plugin folder: `backgammon.koplugin`
 - Drop it into your local KOReader `plugins` directory and restart KOReader to test changes.
@@ -84,9 +95,9 @@ To remove the plugin:
 Feel free to open issues or pull requests if you find bugs or have suggestions.
 
 
-## License
+## ⚖️ License
 
-MIT License
+MIT License  
 
 Copyright (c) 2025 chirheaux
 
