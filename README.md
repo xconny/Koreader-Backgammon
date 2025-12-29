@@ -22,11 +22,9 @@ Enjoy (｡◕‿‿◕｡)
 
 Main menu and sample boards running inside KOReader:
 
-![Backgammon – main menu](screenshots/Koreader-backgammon-mainmenu.png)
-
-![Backgammon – Portes](screenshots/Koreader-backgammon-portes.png)
-
-![Backgammon – Plakoto](screenshots/Koreader-backgammon-plakoto.png)
+| Main menu | Portes | Plakoto |
+| --- | --- | --- |
+| ![Backgammon – main menu](screenshots/Koreader-backgammon-mainmenu.png) | ![Backgammon – Portes](screenshots/Koreader-backgammon-portes.png) | ![Backgammon – Plakoto](screenshots/Koreader-backgammon-plakoto.png) |
 
 
 ## 📦 Installation
